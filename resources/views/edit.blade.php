@@ -8,7 +8,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <link rel="shortcut icon" href="img/nyce.png">
+        <link rel="shortcut icon" href="/img/nyce.png">
 
         <title>Booking Dashboard: Nyce Media</title>
 
@@ -62,6 +62,7 @@
     <body>
         <section class="content">
             <div class="wraper container">
+                
                 <br><br>
 
              <div class="row">
@@ -107,7 +108,7 @@
                         <div class="panel panel-default">
                             <div class="panel-heading"><h3 class="panel-title">Edit Customer Details</h3></div>
                             <div class="panel-body">
-                                <form role="form" action="{{url('update',array($bookings->id))}}" method="post">
+                                <form role="form" action="{{url('updateclient',array($bookings->id))}}" method="post">
                                     @csrf
                                     <div class="row">
                                     <div class="form-group col-md-4">
@@ -129,16 +130,19 @@
                                   
                                 </div>
                                         <div class="row">
-                                                <div class="form-group col-md-4">
-                                        <label for="Subject" class="col-lg-2 control-label">Services</label>
-                                           <select class="form-control" placeholder="Choose the service" name="service">
-                                             <option value="{{$bookings->service}}">{{$bookings->booking}}</option>
-                                                        <option value="Mat Ad">Mat Ad</option>
-                                                        <option value="Nyce Wifi">Nyce Wifi</option>
-                                                        <option value="Graffiti Branding">Graffiti Branding</option>
+                                              <div class="col-lg-8">
+                                                <label for="marks" class="col-lg-4 control-label">Services</label>
+                                                <select class="form-control" placeholder="Choose the matatus" name="service">
                                                        
+                                                        <option value="{{$bookings->service}}">{{$bookings->service}}</option>
+                                                        <option value="Mat Ad">Mat Ad</option>
+                                                        <option value="Graffiti Branding">Graffiti Branding</option>
+                                                        <option value="Nyce Wifi">Nyce Wifi</option>
+                                                        
+                                                        
+                                                        
                                                     </select>
-                                    </div>
+                                            </div>
                                       <div class="form-group col-md-4">
                                         <label for="marks" class="col-lg-4 control-label">Mat Ad</label>
                                           <select class="form-control" placeholder="Choose the matatus" name="mat">
@@ -163,6 +167,57 @@
                                                         
                                                         
                                                     </select>
+                                    </div>
+                                    
+                                  
+                                </div>
+                                <div class="row">
+                                                <div class="form-group col-md-4">
+                                        <label for="Subject" class="col-lg-4 control-label">Nyce Wifi</label>
+                                           <select class="form-control" placeholder="Choose Nyce Wifi Mats" name="wifi_mats">
+                                             <option value="{{$bookings->wifi_mats}}">{{$bookings->wifi_mats}}</option>
+                                                        <option value="300">300</option>
+                                                        <option value="400">400</option>
+                                                        <option value="500">500</option>
+                                                       
+                                                    </select>
+                                    </div>
+                                  
+                                        <div class="form-group col-md-4">
+                                        <label for="Remraks" class="col-lg-6control-label">Nyce Wif Restaurants</label>
+                                           <select class="form-control" placeholder="Choose the graffiti branding mats" name="wifi_restaurants">
+                                                       
+                                                        <option value="{{$bookings->wifi_restaurants}}">{{$bookings->wifi_restaurants}}</option>
+                                                        <option value="91-162">91-162</option>
+                                                        <option value="71-90">71-90</option>
+                                                        <option value="1-70">1-70</option>
+                                                        
+                                                        
+                                                    </select>
+                                    </div>
+                                     <div class="form-group col-md-4">
+                                        <label for="address" class="col-lg-4 control-label">Location</label>
+                                        
+                                        <input type="text" name="location" class="form-control" id="admin no" placeholder="Location" value="{{$bookings->location}}">
+                                    </div>
+                                    
+                                  
+                                </div>
+                                  <div class="row">
+                                   
+                                     <div class="form-group col-md-4">
+                                        <label for="address" class="col-lg-4 control-label">Status</label>
+                                        
+                                          <select class="form-control" placeholder="Choose the status" name="status">
+                                                       
+                                                        <option value="{{$bookings->status}}">{{$bookings->status}}</option>
+                                                        <option value="0">Pending</option>
+                                                        <option value="1">Confirmed</option>
+                                                        <option value="2">Cancelled</option>
+                                                        
+                                                        
+                                                    </select>
+
                                     </div>
                                     
                                   

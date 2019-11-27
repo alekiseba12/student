@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use DB;
 use Picqer;
-use PDF;
+use \PDF;
 
 
 class HomeController extends Controller
@@ -44,8 +44,8 @@ class HomeController extends Controller
         $generator = new Picqer\Barcode\BarcodeGeneratorPNG();
         $barcode=$generator->getBarcode($label, $generator::TYPE_CODE_128);
         $clients=DB::table('bookings')->select('*')->where('id', '=', $id)->get();
-        $pdf=PDF::loadView('invoice',compact('barcode', 'label', 'clients'));
-        return $pdf->download('report.pdf');
+        $pdf=PDF::loadView('live', compact('label', 'barcode', 'clients'));
+        return $pdf->download('invoice.pdf');
 
     }
 }

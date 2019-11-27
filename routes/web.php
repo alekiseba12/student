@@ -22,4 +22,4 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('home/{id}', 'HomeController@viewclient')->name('home/{id}');
 Route::get('customerBookingReport/{id}', 'HomeController@pdf')->name('customerBookingReport/{id}');
 Route::get('editcustomer/{id}', 'BookingController@edit')->name('editcustomer/{id}');
-Route::post('update/{id}', 'BookingController@update')->name('update/{id}');
+Route::post('updateclient/{id}', 'BookingController@update');

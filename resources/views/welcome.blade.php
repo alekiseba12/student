@@ -593,7 +593,119 @@
                                                     </div> 
                                                     <div id="collapseTwo" class="panel-collapse collapse in"> 
                                                         <div class="panel-body">
-                                                            Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                                        <u><p><strong>ELDORET TOWN</p></u></strong>
+                                        <ul>
+                                            <li><strong>UGANDA ROAD: </strong>Subaru, Jerusalem, hawai, peris, Kisumu, junction, chebisas, chepkoilel, sogomo.<br>
+                                            <li><strong>KAPSABET ROAD: </strong> CBD, brookside, sosiani, televise,polytechnic, elgonview, hospital.<br>
+                                            <li><strong>KENYATTA STREET: </strong>CBD pauls bakery, Caltex, pilot.<br>
+                                            <li><strong>ELDORET NAKURU HIGHWAY: </strong>CBD,poa place,cheptiret,iten,salgaa ,nakuru.<br>
+                                            <li><strong>UNIVERSITY WAY: </strong> Subaru, Jerusalem, hawai, peris, Kisumu, junction, chebisas, chepkoilel, sogomo.
+                                            </li>
+                                                </ul>
+                                        <u><p><strong>MOMBASA COUNTY</p></u></strong>
+                                        <ul>
+                                            <li><strong>DONGOKUNDU BYPASS: </strong>Mombasa CBD, Buxtan, Nyali Bridge, Light, Bombolulu, City Mall, Nyali, Bamburi Mtambo, Pirates, Bamburi Beach, Shanzu, Mtwapa.<br>
+                                            <li><strong>JOMO KENYATTA AVENUE: </strong> Mombasa CBD, Buxtan, Nyali Bridge, Light, Bombolulu, City Mall, Nyali, Bamburi Mtambo, Pirates, Bamburi Beach, Shanzu, Mtwapa.<br>
+                                            <li><strong>MOI AVENUE: </strong>Mombasa CBD, Buxtan, Nyali Bridge, Light, Bombolulu, City Mall, Nyali, Bamburi Mtambo, Pirates, Bamburi Beach, Shanzu<br>
+                                            <li><strong>MOMBASA GARRISA ROAD: </strong>Mombasa CBD, Buxtan, Nyali Bridge, Light, Bombolulu, City Mall, Nyali, Bamburi Mtambo, Pirates, Bamburi Beach, Shanzu.<br>
+                                            <li><strong>MAKUPA COURSE WAY: </strong> Mombasa CBD, Buxtan, Nyali Bridge, Light, Bombolulu, City Mall, Nyali, Bamburi Mtambo, Pirates, Bamburi Beach, Shanzu.<br>
+                                            <li><strong>BAGAMOYO HIGHWAY: </strong> Mombasa CBD, Buxtan, Nyali Bridge, Light, Bombolulu, City Mall, Nyali, Bamburi Mtambo, Pirates, Bamburi Beach, Shanzu.
+                                            </li>
+                                                </ul>
+                                        <u><p><strong>MERU COUNTY</p></u></strong>
+                                        <ul>
+                                            <li><strong>MIKINDURI ROAD: </strong>CBD, Makuyu, Thika, Ruiru, Nairobi.<br>
+                                            <li><strong>GITHONGI ROAD: </strong>CBD, Timau, Nanyuki.<br>
+                                            <li><strong>ISIOLO ROAD: </strong>CBD, Isiolo, Magado.<br>
+                                            <li><strong>MOYALE ROAD: </strong>CBD, Isiolo, Magado,Moyale.<br>
+                                            </li>
+                                                </ul>
+                                        <u><p><strong>KISII TOWN</p></u></strong>
+                                        <ul>
+                                            <li><strong>NYATIEKO ROAD: </strong>CBD, nyabera,nyandisi,nyangoso,nyamira,nyangusu.<br>
+                                            <li><strong>KILGORIS ROAD: </strong>CBD,riana,riondonga,zacharia,musa.<br>
+                                            <li><strong>KEROKA ROAD: </strong>CBD,gors,kisii town,bomburia,kisii university,KMTC Kisii.<br>
+                                            <li><strong>KISII KISUMU ROAD: </strong>CBD,kisii county government,Nyakoe, Ruga Market, Kotieno Awuor Road, Oyugis Post Office.<br>
+                                            <li><strong>MIGORI ROAD: </strong> CBD, Suneka, Tabaka, Rongo, Kabola, Sare, Dianga, Stela, Migori.
+                                            </li>
+                                                </ul>
+                                        <u><p><strong>KISUMU COUNTY</p></u></strong>
+                                        <ul>
+                                            <li><strong>AHERO ROAD: </strong>CBD, Ahero, Homabay, Kendubay, Katito.<br>
+                                            <li><strong>BONDO/SIAYA ROAD: </strong> CBD, Kibuye, Kondele, Mamboleo, Kisian,Akala, Ndori,Bondo,Nyawita, Siaya.<br>
+                                            <li><strong>KAKAMEGA ROAD: </strong>CBD, maseno, Luanda, Kakamega<br>
+                                            <li><strong>KERICHO ROAD: </strong>CBD, Nakumatt mega, Ahero,Awasi,Kaitui,Kapsoit,Kericho.<br>
+                                            <li><strong>OYUGIS ROAD: </strong> CBD, Ahero, Awach,Nyabondo, Sondu, Kadogoo, Ringa, Oyugis.<br>
+                                            <li><strong>YALA ROAD: </strong>CBD,Airport, Kisian, Maseno, Luanda, Ulumbi, Yala<br>
+                                            <li><strong>MUHORONI ROAD: </strong>CBD, Ahero, Awasi, Kipsitet, Muhoroni .<br>
+                                            <li><strong>HOMABAY ROAD: </strong> CBD, Ahero, Awach, Pap Onditi, Kindu Bay, Olare, Homabay.
+                                            </li>
+                                                </ul>
+                                        <u><p><strong>WESTERN RIGION</p></u></strong>
+                                        <ul>
+                                            <li><strong>BUTERE ROAD: </strong>cbd,mumias,khumusalaba,butere,luanda,maseno,kisumu.<br>
+                                            <li><strong>KAKAMEGA ROAD: </strong> cbd,musikoma,kabula,harambee,mayoni,mumias,ekero,kakamega.<br>
+                                            <li><strong>LUANDA ROAD: </strong>cbd,bungoma, Luanda.<br>
+                                            <li><strong>LUGULU ROAD: </strong>cbd,mumias,khumusalaba,butere,luanda,maseno,kisumu.<br>
+                                            <li><strong>MALABA ROAD: </strong> cbd kanduyi,mabanga, bukembe matisi,webuye,lugulu, Malaba.<br>
+                                            <li><strong>MALAKISI ROAD: </strong>CBD,kanduyi,mayanja,kimaeti,amagoro,malaba<br>
+                                            <li><strong>MUMIAS ROAD: </strong>cbd,kanduyi,kibabii,chwele,kimilili,kitale.<br>
+                                            <li><strong>NAMBALE ROAD: </strong> CBD,Romima,Muskoma,Kabula,Harambee,Mumias.<br>
+                                            <li><strong>WEBUYE ROAD: </strong>CBD, maseno, Luanda, Kakamega<br>
+                                            <li><strong>YALA ROAD: </strong>CBD,muskoma,kabula,harambee,mayoni,nambale.<br>
+                                            <li><strong>OYUGIS ROAD: </strong> cbd,kabula,harambee,,mumias,shianda,kakamega,mukumu,chavakali, yala.
+                                            </li>
+                                                </ul>
+                                                <u><p><strong>BUSIA TOWN</p></u></strong>
+                                        <ul>
+                                            <li><strong>BUNGOMA ROAD: </strong>CBD, Korinda, Nambale, Mungatsi, Koyonzo, Mumias Sugar Company, Bulimbo, Bungoma.<br>
+                                            <li><strong>KISUMU ROAD: </strong>CBD,riana,riondonga,zacharia,musa.<br>
+                                            <li><strong>PORT ROAD: </strong>CBD,Korinda, Matayos, Bumala, Funyula, Port Bunyala.<br>
+                                            <li><strong>MUMIAS ROAD: </strong>CBD,Korinda, Nambale.
+                                            </li>
+                                                </ul>
+                                                <u><p><strong>KERICHO TOWN</p></u></strong>
+                                        <ul>
+                                            <li><strong>AHERO ROAD: </strong>CBD,Kapsoit,kaitui,awasi,ahero.<br>
+                                            <li><strong>LITEIN ROAD: </strong>CBD,KAPSUSER,LITEIN.<br>
+                                            <li><strong>LONDIANI ROAD: </strong>Kericho CBD, Temple rd, Nishkam saint, Tom Mboya rd,Kericho Cemetry.<br>
+                                            <li><strong>MUHORONI ROAD: </strong>CBD,Kapsoit,kaitui,muhoroni.<br>
+                                            <li><strong>SOTIC ROAD: </strong> CBD,kiptetan,boito,sotik.
+                                            </li>
+                                                </ul>
+                                                <u><p><strong>BOMET TOWN</p></u></strong>
+                                        <ul>
+                                            <li><strong>LITEIN ROAD: </strong>CBD,KAPSUSER,LITEIN.<br>
+                                            <li><strong>SOTIC ROAD: </strong>CBD,Chebole,yaganek,sotik.
+                                            </li>
+                                                </ul>
+                                                <u><p><strong>NAKURU TOWN</p></u></strong>
+                                        <ul>
+                                            <li><strong>KENYATTA AVENUE: </strong>CBD, daraja, NCCK, Jogoo, posta, shell, rivana,eclipse, hostel,kawangware, sakafos.<br>
+                                            <li><strong>MBURU GICHUA ROAD: </strong>CBD,Camp ya moto,machego,isageni,eldama ravine.<br>
+                                            <li><strong>LONIANI ROAD: </strong>CBD,Njoro,elburgon,molo.<br>
+                                            <li><strong>NAIVASHA ROAD: </strong>CBD,Mawanga,bahati,subukia nyahururu.<br>
+                                            <li><strong>NYAHURURU ROAD: </strong> CBD, nyahururu, thika.
+                                            </li>
+                                                </ul>
+                                                <u><p><strong>NYERI TOWN</p></u></strong>
+                                        <ul>
+                                            <li><strong>OTHAYA ROAD: </strong>CBD,Mururi,kutus,kagio,sagana,gitungi,kiriani,othaya.
+                                            </li>
+                                                </ul>
+                                                <u><p><strong>EMBU TOWN</p></u></strong>
+                                        <ul>
+                                            <li><strong>CHUKA ROAD: </strong>CBD,Manyatta,kianjakoma,kyeni,kirege,chuka.<br>
+                                            <li><strong>KANGEMA ROAD: </strong> CBD,Mururi,kutus,kagio,gacharu,sagana,gatheuri,karuri,kangema.<br>
+                                            <li><strong>KARURI ROAD: </strong>CBD,Mururi,kutus,kagio,sagana,gitungi,karuri.<br>
+                                            <li><strong>KERUGOYA ROAD: </strong>CBD,Mururi,kamiiguna,kutus,rukenya,karia,kerugoya.<br>
+                                            <li><strong>MERU ROAD: </strong> CBD,Chuka,marima,chogoria,igoji,nkubu,meru.<br>
+                                            <li><strong>NANYUKI ROAD: </strong>CBD,,Kutus,karatina,kiganjo,naro moru,nanyuki.<br>
+                                            <li><strong>OTHAYA ROAD: </strong>CBD,Mururi,kutus,kagio,sagana,gitungi,kiriani,othaya.<br>
+                                            <li><strong>THIKA ROAD: </strong> CBD,Mururi, Kimbimbi, Wanguru, Wamumu, Makuyu, Kabati, Thika.<br>
+                                            <li><strong>KUTUS-KERUGOYA ROAD: </strong>CBD,Mururi, Kutus,  Kirinya University, Kerugoya.
+                                            </li>
+                                                </ul>
                                                         </div> 
                                                     </div> 
                                                 </div> 

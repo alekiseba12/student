@@ -62,6 +62,7 @@
     <body>
         <section class="content">
             <div class="wraper container">
+
                 <br><br>
 
              <div class="row">
@@ -101,7 +102,26 @@
 
                 </div>
 
-                <!-- End row -->
+                <div class="row pull-center">
+                  <div class="col-md-6">
+                        @if(count($errors)>0)
+                        @foreach($errors->all() as $error)
+                     <div class="alert alert-danger">
+                        {{$error}}
+                     </div>
+                     @endforeach
+                     @endif
+                     </div>
+                       <div class="col-md-6">
+                   @if ($message = Session::get('response'))
+                    <div class="alert alert-success alert-block">
+                        <button type="button" class="close" data-dismiss="alert">×</button> 
+                        <strong>{{ $message }}</strong>
+                 </div>
+             
+             @endif
+         </div>
+                 </div>
                         <div class="row">
                     <div class="col-md-12">
                         <div class="panel panel-default">
@@ -150,13 +170,19 @@
                                                       @php $badgeClass='success'
                                                       
                                                       @endphp
+                                                       @elseif($booking->status==2)
+                                                      @php $class='Cancelled'
+                                                      @endphp
+                                                      @php $badgeClass='danger'
+                                                      
+                                                      @endphp
                                                       @endif
                                                    
                                                     <span class="label label-{{$badgeClass}}">{{$class}}</span>
                                                     </td>
                                                        <td class="actions">
                                                  
-                                                    <a  href='{{url("home/{$booking->id}")}}'><span class="btn btn-icon btn-primary m-b-5" data-toggle="modal" data-target="#con-close-modal"> <i class="ion-eye"></i> </span></a>
+                                                    <a  href='{{url("customerBookingReport/{$booking->id}")}}'><span class="btn btn-icon btn-primary m-b-5" data-toggle="modal" data-target="#con-close-modal"> <i class="fa fa-download"></i> </span></a>
                                                       <a  href='{{url("editcustomer/{$booking->id}")}}'><span class="btn btn-icon btn-info m-b-5"> <i class="ion-edit"></i> </span>
                                                 </td>
                                                    
